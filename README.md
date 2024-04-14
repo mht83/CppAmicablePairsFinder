@@ -8,6 +8,17 @@ The C++ Amicable Pairs Finder is a command-line application designed to identify
 - Identification of amicable pairs up to 1,000,000
 - Beautiful CLI with colored output
 
+## Beautiful CLI
+The C++ Amicable Pairs Finder features a **beautiful command-line interface (CLI)** that enhances user interaction and experience. With color-coded output and clear formatting, users can easily navigate through the results and enjoy a visually appealing display of amicable pairs.
+
+### CLI Features
+- **Color-Coded Output**: Utilizes ANSI color codes to differentiate between various types of output, making it easier to read and understand.
+- **Structured Format**: Outputs are organized in a structured format with proper spacing and alignment for better readability.
+- **Interactive Experience**: Although primarily output-based, the application provides a smooth and user-friendly experience on the command line.
+
+To experience the full beauty of the CLI, ensure your terminal supports ANSI color codes and is capable of displaying colors.
+
+
 ## Getting Started
 
 ### Prerequisites
